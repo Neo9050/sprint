@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T11:44:11.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.1" etag="3qLeEocR0AGCGLp0CBSG" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T11:55:38.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iaDXRbCTt5nmo3IDX-g1" version="21.5.1" type="github">
   <diagram name="Page-1" id="xdtW6GnARBs6_S_TcqcK">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Dependent on products" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="2" value="Dependent on products" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="115" width="182" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Managing wishlist items" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="3" value="Managing wishlist items" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="114" y="103" width="186" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Adding products to a wishlist" style="curved=1;startArrow=none;endArrow=block;exitX=0.3178513499546571;exitY=1;entryX=0.3163921811384279;entryY=0;" edge="1" parent="1" source="2" target="3">
+        <mxCell id="4" value="Adding products to a wishlist" style="curved=1;startArrow=none;endArrow=block;exitX=0.3178513499546571;exitY=1;entryX=0.3163921811384279;entryY=0;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="104" y="69" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5" value="Viewing wishlist items" style="curved=1;startArrow=none;endArrow=block;exitX=0.6885445978475407;exitY=1;entryX=0.6791135312271636;entryY=0;" edge="1" parent="1" source="2" target="3">
+        <mxCell id="5" value="Viewing wishlist items" style="curved=1;startArrow=none;endArrow=block;exitX=0.6885445978475407;exitY=1;entryX=0.6791135312271636;entryY=0;" parent="1" source="2" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="309" y="69" />
